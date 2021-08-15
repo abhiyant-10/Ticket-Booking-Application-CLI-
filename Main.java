@@ -1,6 +1,4 @@
-/* GROUP 5 
- * JAVA PROJECT 
- */
+
 
 package msql;
 
