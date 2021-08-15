@@ -1,6 +1,3 @@
-/* MADE BY - NABEEL KHAN
- * ROLL NO - B-50
- */
 
 
 
