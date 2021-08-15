@@ -1,6 +1,4 @@
-/* MADE BY - NITESH DANI
- * ROLL NO - B-52
- */
+
 
 
 package msql;
