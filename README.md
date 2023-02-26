@@ -10,7 +10,7 @@ Program Flow :
 
 1] The user is asked For Authentication detais. 
 
-  
+    Password encryption done with MD5
 
 1a. If the Authentication details matches with that in the database, The user is given further acccess to continue with the tickets booking. 
 
