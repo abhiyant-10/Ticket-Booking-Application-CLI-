@@ -1,7 +1,3 @@
-/* MADE BY - ABHIYANT GWALANI
- * ROLL NO - B-11
- */
-
 
 package msql;
 
